@@ -1,4 +1,5 @@
 Dear GitHub community,
+
 My name is Renan Araújo, and I am a programming enthusiast who is embarking on an exciting journey into the world of coding. Currently, 
 I reside in Santa Cruz do Sul, in the Brazilian state of Rio Grande do Sul, where I work as a business analyst at a marketing automation 
 company and study Analysis and Systems Development.
